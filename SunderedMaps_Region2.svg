@@ -16,7 +16,7 @@
    version="1.1"
    id="svg8"
    sodipodi:docname="SunderedMaps_Region2.svg"
-   inkscape:export-filename="S:\_Speedruns\Games\Sundered\Map\Map1.svg.png"
+   inkscape:export-filename="S:\_Speedruns\Games\Sundered\Map\SunderedMaps\SunderedMaps_Region2.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
@@ -1190,9 +1190,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.70710678"
-     inkscape:cx="665.89579"
-     inkscape:cy="423.0809"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="622.00509"
+     inkscape:cy="316.08194"
      inkscape:document-units="mm"
      inkscape:current-layer="svg8"
      showgrid="false"
@@ -2023,7 +2023,8 @@
      id="g8196"
      inkscape:label="Icons"
      transform="translate(5.2195416,60.656313)"
-     style="display:inline">
+     style="display:inline"
+     sodipodi:insensitive="true">
     <image
        width="23.565264"
        height="30.869629"
@@ -2260,14 +2261,6 @@
        id="image7631-0-4"
        x="205.54958"
        y="36.57077" />
-    <image
-       width="3.316"
-       height="4.7577391"
-       preserveAspectRatio="none"
-       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABcAAAAhCAYAAAAyCTAQAAAABmJLR0QAjgB7ALKKXuCdAAACTUlE QVRIx62WX0/bUAzFfw4pK6zQjT+dNE3sad//+2yvSEOCbYxR0tKkZw/4InOVpAmbpahJah/7Hp/r G2OASTKgBCZAbWaPHT5mZtv0rmCY7QFz4BSYOlBuE+BIUjkWPFbeZXPgHHg/Flx+VcDazJRRMgWO 0golnXWCSzpOS/ffBlgBa2CT+SbKSmALPAK1pL2yDRhYuPNPM5MnWOa0+Pt94MCTL/3amFlTZs6H zlvhQU+EPyVofAW5lcCdg1eRsjJb3onztgJuXnQ04zkkXUb5RYucz4BDv/9lZvUgGXUAP4N71TN/ t/HKR5ukIu6BRMs+MA3g21fs3NIba5KuY0OnzvVYK4C3rvED32wrf9+Ukgr/I9kbT9QM4LuR9OC+ leP8SbH2Sm4tKsifkzi2bcoanaBjgL0YSPgkS44aKsOgtCjpOlVukk6DUmJSjXiO1pjZVZLiPO7U /2RXZKDf/qURzv+XXKeK/LepIr/v61+kqxi6G1+zqgKo84w5oKSZpAtJsx2nFbHYwk8X4vxusXNX 1HmPT4qvI3jl9+8G8NnHe4pf5ZXXPny67If/Xvf4pPj7Z3DfjRVQSJp3BD6Ecdwmw7kX+phXDvDb G7LwKZk3dmNmX81s1SHXRarazJocvPLqDPg8UnEXHld7kS+POZfcjc/hiaSPA3flwuc//hmyaT2g zWztCQTMJH3YAXwcFHJnZrddEotBJ/7Baa6ky8ij9+RTmKT3wPfWT4+eqs52TEsBt8BN12iwnmVP fNkzT5Jm+Nabf2tmVR91fwF2nRg168s2rQAAAABJRU5ErkJggg== "
-       id="image7973-1-9"
-       x="299.00372"
-       y="18.961254" />
     <image
        width="7.215693"
        height="4.810462"
