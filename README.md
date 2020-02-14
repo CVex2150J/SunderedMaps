@@ -12,7 +12,8 @@ Because any up to date full maps weren't accessible anywhere, I created this sma
 ![SunderedMaps Region 2](SunderedMaps_Region2.png)
 
 ## Region 3
-*Will be up by 15/02/2020*
+**v0.5 (No cloud)**
+![SunderedMaps Region 3 - NO CLOUD](SunderedMaps_Region3.png)
 
 ## Bonus zones
 *Will be up by 17/02/2020*
