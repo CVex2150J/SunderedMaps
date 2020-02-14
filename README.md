@@ -5,6 +5,13 @@ Because any up to date full maps weren't accessible anywhere, I created this sma
 [Speedrun.com](https://www.speedrun.com/sundered/)
 
 ## Region 1
-![GitHub Logo](Map1%20-%20v1.0.png)
+![GitHub Logo](SunderedMapsRegion1.png)
+
+## Region 2
+*Will be up tomorrow*
+
+## Region 3
+*Will be up tomorrow*
+
 
 *All used assets are property of Thunder Lotus*
