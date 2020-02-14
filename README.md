@@ -6,10 +6,10 @@ Because any up to date full maps weren't accessible anywhere, I created this sma
 
 ## Region 1
 
-![GitHub Logo](SunderedMaps_Region1.png)
+![SunderedMaps Region 1](SunderedMaps_Region1.png)
 
 ## Region 2
-*Will be up by 14/02/2020*
+![SunderedMaps Region 2](SunderedMaps_Region2.png)
 
 ## Region 3
 *Will be up by 15/02/2020*
