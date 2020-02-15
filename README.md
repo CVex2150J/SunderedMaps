@@ -17,8 +17,13 @@ Because any up to date full maps weren't accessible anywhere, I created this sma
 
 ## Bonus zones
 Mask 1
+
 *A map with all wires will be available soon*
 ![SunderedMaps Bonus Region 1](SunderedMaps_BonusR1.png)
+
+Mask 2 
+![SunderedMaps Bonus Region 2](SunderedMaps_BonusR2.png)
+
 
 *The rest of mask map will be up before 17/02/2020*
 
