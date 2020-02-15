@@ -12,10 +12,14 @@ Because any up to date full maps weren't accessible anywhere, I created this sma
 ![SunderedMaps Region 2](SunderedMaps_Region2.png)
 
 ## Region 3
-**v0.5 (No cloud)**
+**v0.6 (No cloud)**
 ![SunderedMaps Region 3 - NO CLOUD](SunderedMaps_Region3.png)
 
 ## Bonus zones
-*Will be up by 17/02/2020*
+Mask 1
+*A map with all wires will be available soon*
+![SunderedMaps Bonus Region 1](SunderedMaps_BonusR1.png)
+
+*The rest of mask map will be up before 17/02/2020*
 
 *All used assets are property of Thunder Lotus*
