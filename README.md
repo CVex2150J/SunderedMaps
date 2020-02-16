@@ -25,8 +25,8 @@ Mask 2
 ![SunderedMaps Bonus Region 2](SunderedMaps_BonusR2.png)
 
 Mask 3
-**v0.5 (No clouds)**
-![SunderedMaps Bonus Region 1](SunderedMaps_BonusR3.png)
+**v0.7 (Basic clouds)**
+![SunderedMaps Bonus Region 3](SunderedMaps_BonusR3.png)
 
 I will continue to improve these maps, especially for region 3 clouds and puzzle rooms
 
