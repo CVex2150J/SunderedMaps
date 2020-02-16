@@ -12,7 +12,7 @@ Because any up to date full maps weren't accessible anywhere, I created this sma
 ![SunderedMaps Region 2](SunderedMaps_Region2.png)
 
 ## Region 3
-**v0.6 (No cloud)**
+**v0.6 (No clouds)**
 ![SunderedMaps Region 3 - NO CLOUD](SunderedMaps_Region3.png)
 
 ## Bonus zones
@@ -24,7 +24,10 @@ Mask 1
 Mask 2 
 ![SunderedMaps Bonus Region 2](SunderedMaps_BonusR2.png)
 
+Mask 3
+**v0.5 (No clouds)**
+![SunderedMaps Bonus Region 1](SunderedMaps_BonusR3.png)
 
-*The rest of mask map will be up before 17/02/2020*
+I will continue to improve these maps, especially for region 3 clouds and puzzle rooms
 
 *All used assets are property of Thunder Lotus*
