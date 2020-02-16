@@ -12,8 +12,8 @@ Because any up to date full maps weren't accessible anywhere, I created this sma
 ![SunderedMaps Region 2](SunderedMaps_Region2.png)
 
 ## Region 3
-**v0.6 (No clouds)**
-![SunderedMaps Region 3 - NO CLOUD](SunderedMaps_Region3.png)
+**v0.7 (Basic clouds)**
+![SunderedMaps Region 3](SunderedMaps_Region3.png)
 
 ## Bonus zones
 Mask 1
