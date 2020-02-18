@@ -5,7 +5,6 @@ Because any up to date full maps weren't accessible anywhere, I created this sma
 [Speedrun.com](https://www.speedrun.com/sundered/)
 
 ## Region 1
-
 ![SunderedMaps Region 1](SunderedMaps_Region1.png)
 
 ## Region 2
@@ -16,9 +15,9 @@ Because any up to date full maps weren't accessible anywhere, I created this sma
 ![SunderedMaps Region 3](SunderedMaps_Region3.png)
 
 ## Bonus zones
-Mask 1
 
-*A map with all wires will be available soon*
+Mask 1
+[Basic Cable Layout](SunderedMaps_BonusR1-Cables.png)
 ![SunderedMaps Bonus Region 1](SunderedMaps_BonusR1.png)
 
 Mask 2 
