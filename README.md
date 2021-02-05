@@ -24,6 +24,9 @@ Because any up to date full maps weren't accessible anywhere, I created this sma
 ![SunderedMaps Bonus Region 3](pngs/SunderedMaps_BonusR3.png)
 
 # Updates
+##### 2021 / 02 / 05 - 
+- **[FIX]** - Add a missing door for the Shield room
+
 ##### 2020 / 02 / 27 - V2 maps
 - **[Esthetic]** - Cloud effect
 - **[Esthetic]** - Remove door line blur
